@@ -1,6 +1,6 @@
 === Login Logout Menu ===
 Requires at least: 4.0
-Tested up to: 6.6
+Tested up to: 6.9
 Contributors: hiddenpearls, WPBrigade, AbdulWahab610
 Donate link: https://wpbrigade.com/go/donate-login-logout-menu
 Author URI: https://WPBrigade.com/?utm_source=login-logout-menu
